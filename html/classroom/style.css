@@ -1,0 +1,33 @@
+#box {
+    background-color: rgb(0, 47, 255);
+    color:white;
+}
+
+.heading{
+    color:red;
+}
+button{
+    background-color: green;
+    color:white;
+}
+
+#one{
+    font-size: 25px;
+    line-height: 20px;
+    text-transform: capitalize;
+}
+
+*{
+    font-family: "Times new roman";
+}
+#two{
+    font-size: 50px;
+}
+#h4 { text-align: center;
+    text-transform: capitalize
+    
+}
+#outer{
+    font-size: 25px;
+}
+
